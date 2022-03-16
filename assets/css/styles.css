@@ -10,6 +10,9 @@
 section{
     margin-top: 100px;
 }
+.parra-inicial{
+  padding: 4% 0;
+}
 .navegador-nav {
     background-color:#8C6AF8;
     height: 120px;
